@@ -3,7 +3,7 @@ import requests
 #-------------------INSTALL------------------#
 
 city = input("enter your city :")
-api_key = "****" #user your openweathermap API_Key 
+api_key = "****" #use your openweathermap API_Key 
 
 url = " http://api.openweathermap.org/data/2.5/weather?q={}&appid={}&units=metric".format(city,api_key)
 
