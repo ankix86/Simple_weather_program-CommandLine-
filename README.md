@@ -6,7 +6,7 @@ API from this website = https://openweathermap.org/api
 
 Required import module:-
 
-first intall this module from command rg.(powerShell or CMD)
+first install this module from command rg.(powerShell or CMD)
 -----------------------------
 ==> pip3 install requests <==
 -----------------------------
@@ -19,4 +19,4 @@ Ans: insert your API key in api = "***(replace by your api key)"
 -----------------------------------------------------------------
 
 Follow me on social media:-
-instagram : @_dexte_
+instagram : @dexter_force
